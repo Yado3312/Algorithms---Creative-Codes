@@ -158,6 +158,3 @@ const homePage = `
 </body>
 </html>
 `
-
-
-Me fascino como explicaste todo eso, pero crees que lo podrías explicar con aun mas detalle?, me gustaría saber que función envía el mensaje, que función lo lee, como puedo jugar con los datos, pero me gustaría saber todo de manera aun mas detallada a nivel incluso de como se pasan los datos y como funcionan dentro del internet
